@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pankajgkalal
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Rust S
+- 🌱 I’m currently learning Rust.
 
 <!---
 pankajgkalal/pankajgkalal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
